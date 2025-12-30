@@ -82,7 +82,7 @@ Integrates **Gemini 3 Flash** to synthesize technical logic into human-readable 
 
 1. **Clone the repository:**
 ```bash
-git clone [https://github.com/your-repo/esu-logic-orita-meta.git](https://github.com/your-repo/esu-logic-orita-meta.git)
+git clone [https://github.com/otegbeyeabimbola/esu-logic-orita-meta](https://github.com/otegbeyeabimbola/esu-logic-orita-meta)
 
 ```
 
